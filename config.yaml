@@ -3,7 +3,7 @@ baseUrl: ""
 title: "awful software"
 theme: "anubis"
 paginate: 10
-disqusShortname: "yourdiscussshortname"
+disqusShortname: "awful-software"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
 
@@ -29,7 +29,7 @@ params:
   #   - js/main.js # relative path to "assets" directory
   dateFormat: "2006-01-02"
   paginationSinglePost: true
-  style: light-without-switcher
+  style: light-with-switcher
   readMore: false
   disableSummary: false
   # utteranc.es support
