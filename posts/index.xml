@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on awful software</title><link>/posts/</link><description>awful software (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 15:11:38 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>I have no idea what I'm doing</title><link>/posts/i-have-no-idea-what-im-doing/</link><pubDate>Fri, 05 Nov 2021 15:11:38 -0500</pubDate><guid>/posts/i-have-no-idea-what-im-doing/</guid><description>&lt;p>This is basically just a test page to see how this all works.&lt;/p>
+&lt;hr>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-go" data-lang="go">&lt;span style="color:#f92672">package&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>
 &lt;span style="color:#f92672">import&lt;/span> (
 &lt;span style="color:#e6db74">&amp;#34;os&amp;#34;&lt;/span>
